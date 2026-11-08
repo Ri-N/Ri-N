@@ -13,4 +13,4 @@ Computer Science student at [TH Mannheim](https://www.th-mannheim.de/en/) and wo
 
 - [CodyPlus](https://github.com/Ri-N/codyPlus) – LLM assistant that turns user requests into API calls for a low-code tool (won the TH Mannheim project competition with BitExpert AG)
 - [Proxmox Homelab](https://github.com/Ri-N/Proxmox-Homelab) – scripts that build, update and back up a 4-node Proxmox cluster running Kubernetes
-- [Legends of Zarda](https://github.com/Ri-N/Legenden-von-Zarda) – 3D RPG in Unity 6, built in a team of five; I wrote the gameplay, dialogue and quest code
+- [Legends of Zarda](https://github.com/Ri-N/Legenden-von-Zarda) – 3D RPG in Unity 6, built in a team of five; I was the Unity developer (gameplay code, input, dialogue system, menus)
